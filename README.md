@@ -11,7 +11,7 @@ The project is organized into the following Python files and a Jupyter notebook:
 3. `agent.py`: Implements the Deep SARSA agent and training algorithm
 4. `replay_memory.py`: Implements the replay buffer for experience replay
 5. `main.py`: Orchestrates the training and evaluation process
-6. `Deep_SARSA_Maze.ipynb`: Jupyter notebook containing the entire implementation and visualization
+6. `Deep_SARSA_on_Mountain_Cart.ipynb`: Jupyter notebook containing the entire implementation and visualization
 
 ## File Descriptions
 
